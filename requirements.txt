@@ -1,0 +1,12 @@
+beautifulsoup4==4.9.3
+certifi==2020.12.5
+chardet==4.0.0
+idna==2.10
+img2pdf==0.4.0
+lxml==4.6.2
+pikepdf==2.5.2
+Pillow==8.1.0
+pkg-resources==0.0.0
+requests==2.25.1
+soupsieve==2.1
+urllib3==1.26.2
