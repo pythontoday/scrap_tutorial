@@ -1,5 +1,8 @@
-import os
+# This is the way
+# Author: pythontoday
+# YouTube: https://www.youtube.com/c/PythonToday/videos
 
+import os
 import requests
 import img2pdf
 

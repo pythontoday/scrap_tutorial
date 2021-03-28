@@ -1,6 +1,9 @@
+# This is the way
+# Author: pythontoday
+# YouTube: https://www.youtube.com/c/PythonToday/videos
+
 import requests
 from bs4 import BeautifulSoup
-import lxml
 from proxy_auth import proxies
 import json
 
