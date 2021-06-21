@@ -1,0 +1,356 @@
+{
+    "pageUrl": "/catalog/legkovye/?form_id=catalog_filter_form&filter_mode=params&sort=asc&filter_type=tires&arCatalogFilter_458_1500340406=Y&set_filter=Y&arCatalogFilter_463=668736523&PAGEN_1=1",
+    "items": [
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 0,
+            "season": "Летние",
+            "price": 8482,
+            "name": "215/60R17 96V PremiumContact 6 TL FR",
+            "productId": 147158,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/548/275_275_1/a1kib25cww0xnu2z2sn6khd98nsgcwyd.png",
+            "url": "/catalog/legkovye/21560r17-96v-premiumcontact-6-tl-fr-0311748/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [
+                {
+                    "STORE_ID": "191",
+                    "PRODUCT_ID": "147158",
+                    "AMOUNT": "8",
+                    "PRODUCT_XML_ID": "0311748",
+                    "STORE_XML_ID": "FORTOCHKI_43",
+                    "STORE_NAME": "Удалённый склад",
+                    "PRICE": "8482.00",
+                    "PRICE_ID": "96"
+                }
+            ],
+            "commonStores": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 0,
+            "season": "Летние",
+            "price": 14105,
+            "name": "275/40ZR19 105Y XL Advan Sport V105S TL",
+            "productId": 147142,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/1bf/275_275_1/fq2wdmfo01lgp7yurwgj46k3jqumu664.png",
+            "url": "/catalog/legkovye/27540zr19-105y-xl-advan-sport-v105s-tl-f7083/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [
+                {
+                    "STORE_ID": "191",
+                    "PRODUCT_ID": "147142",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "F7083",
+                    "STORE_XML_ID": "FORTOCHKI_43",
+                    "STORE_NAME": "Удалённый склад",
+                    "PRICE": "14105.00",
+                    "PRICE_ID": "96"
+                }
+            ],
+            "commonStores": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 0,
+            "season": "Летние",
+            "price": 19691,
+            "name": "245/40R20 99Y XL P Zero * TL RFT",
+            "productId": 147085,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/6d1/275_275_1/c12z3tvyqlo37u3jfqwrsgjaswwzasyt.png",
+            "url": "/catalog/legkovye/24540r20-99y-xl-p-zero--tl-rft-1874400/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [
+                {
+                    "STORE_ID": "191",
+                    "PRODUCT_ID": "147085",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "1874400",
+                    "STORE_XML_ID": "FORTOCHKI_43",
+                    "STORE_NAME": "Удалённый склад",
+                    "PRICE": "19691.00",
+                    "PRICE_ID": "96"
+                }
+            ],
+            "commonStores": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 0,
+            "season": "Летние",
+            "price": 21052,
+            "name": "275/35R20 102Y XL P Zero * TL Run Flat",
+            "productId": 147084,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/7a0/275_275_1/fmecswdc0s5f4k1kgcas5v2va8rea62m.png",
+            "url": "/catalog/legkovye/27535r20-102y-xl-p-zero--tl-run-flat-1874300/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [
+                {
+                    "STORE_ID": "191",
+                    "PRODUCT_ID": "147084",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "1874300",
+                    "STORE_XML_ID": "FORTOCHKI_43",
+                    "STORE_NAME": "Удалённый склад",
+                    "PRICE": "21052.00",
+                    "PRICE_ID": "96"
+                }
+            ],
+            "commonStores": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 0,
+            "season": "Летние",
+            "price": 20897,
+            "name": "275/45R18 103W Cinturato P7 MOE TL Run Flat",
+            "productId": 147083,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/aa7/275_275_1/0dr1m3d1h1b1r121tytm4l4cfymtzuaz.png",
+            "url": "/catalog/legkovye/27545r18-103w-cinturato-p7-moe-tl-run-flat-2127300/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [
+                {
+                    "STORE_ID": "191",
+                    "PRODUCT_ID": "147083",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "2127300",
+                    "STORE_XML_ID": "FORTOCHKI_43",
+                    "STORE_NAME": "Удалённый склад",
+                    "PRICE": "20897.00",
+                    "PRICE_ID": "96"
+                }
+            ],
+            "commonStores": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 0,
+            "season": "Летние",
+            "price": 7542,
+            "name": "265/70R17 115S TR292 TL",
+            "productId": 147076,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/f87/275_275_1/6nmlloet7261mdhyymj26ul437nbpqhh.jpg",
+            "url": "/catalog/legkovye/26570r17-115s-tr292-tl-cts237415/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [
+                {
+                    "STORE_ID": "191",
+                    "PRODUCT_ID": "147076",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "CTS237415",
+                    "STORE_XML_ID": "FORTOCHKI_43",
+                    "STORE_NAME": "Удалённый склад",
+                    "PRICE": "7542.00",
+                    "PRICE_ID": "96"
+                }
+            ],
+            "commonStores": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 0,
+            "season": "Летние",
+            "price": 12531,
+            "name": "255/55R19 107W P Zero TL S.C.PZ4",
+            "productId": 147057,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/37a/275_275_1/3gdph5ohpv2pp7056vllwfl7d6v8gwve.png",
+            "url": "/catalog/legkovye/25555r19-107w-p-zero-tl-scpz4-2728500/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [
+                {
+                    "STORE_ID": "191",
+                    "PRODUCT_ID": "147057",
+                    "AMOUNT": "1",
+                    "PRODUCT_XML_ID": "2728500",
+                    "STORE_XML_ID": "FORTOCHKI_43",
+                    "STORE_NAME": "Удалённый склад",
+                    "PRICE": "12531.00",
+                    "PRICE_ID": "96"
+                }
+            ],
+            "commonStores": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 0,
+            "season": "Летние",
+            "price": 12098,
+            "name": "235/45R18 94W Turanza T005A TL",
+            "productId": 147053,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/c70/275_275_1/c5hwwc4hk893cbjdakjbssq2y4zwoj2y.png",
+            "url": "/catalog/legkovye/23545r18-94w-turanza-t005a-tl-br017724/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [
+                {
+                    "STORE_ID": "191",
+                    "PRODUCT_ID": "147053",
+                    "AMOUNT": "41",
+                    "PRODUCT_XML_ID": "BR017724",
+                    "STORE_XML_ID": "FORTOCHKI_43",
+                    "STORE_NAME": "Удалённый склад",
+                    "PRICE": "12098.00",
+                    "PRICE_ID": "96"
+                }
+            ],
+            "commonStores": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 0,
+            "season": "Летние",
+            "price": 4127,
+            "name": "195/65R15 91V Turanza T005 TL",
+            "productId": 147052,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/97b/275_275_1/xrss96ypzztxn36tbatgb4jemvyzgtl7.png",
+            "url": "/catalog/legkovye/19565r15-91v-turanza-t005-tl-br008903/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [
+                {
+                    "STORE_ID": "191",
+                    "PRODUCT_ID": "147052",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "BR008903",
+                    "STORE_XML_ID": "FORTOCHKI_43",
+                    "STORE_NAME": "Удалённый склад",
+                    "PRICE": "4127.00",
+                    "PRICE_ID": "96"
+                }
+            ],
+            "commonStores": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 0,
+            "season": "Летние",
+            "price": 12729,
+            "name": "235/55R20 102V Dueler H/L 33A TL",
+            "productId": 147051,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/bb6/275_275_1/nsk1b4tlh1g58u6mwnt4xxijamrm5dar.png",
+            "url": "/catalog/legkovye/23555r20-102v-dueler-hl-33a-tl-br009441/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [
+                {
+                    "STORE_ID": "191",
+                    "PRODUCT_ID": "147051",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "BR009441",
+                    "STORE_XML_ID": "FORTOCHKI_43",
+                    "STORE_NAME": "Удалённый склад",
+                    "PRICE": "12729.00",
+                    "PRICE_ID": "96"
+                }
+            ],
+            "commonStores": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 0,
+            "season": "Летние",
+            "price": 7940,
+            "name": "225/40R18 92Y XL Potenza Sport TL",
+            "productId": 147050,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/775/275_275_1/uz0q3wshxz90b6z98nlg98hn7c1znhzi.png",
+            "url": "/catalog/legkovye/22540r18-92y-xl-potenza-sport-tl-br022490/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [
+                {
+                    "STORE_ID": "191",
+                    "PRODUCT_ID": "147050",
+                    "AMOUNT": "3",
+                    "PRODUCT_XML_ID": "BR022490",
+                    "STORE_XML_ID": "FORTOCHKI_43",
+                    "STORE_NAME": "Удалённый склад",
+                    "PRICE": "7940.00",
+                    "PRICE_ID": "96"
+                }
+            ],
+            "commonStores": []
+        },
+        {
+            "isNew": false,
+            "props": [],
+            "type": "tires",
+            "isPromo": false,
+            "amount": 0,
+            "season": "Летние",
+            "price": 12098,
+            "name": "235/45R18 98Y XL Potenza Sport TL",
+            "productId": 147005,
+            "sectionId": 7278,
+            "imgSrc": "/upload/resize_cache/iblock/48d/275_275_1/9yuel2sv7n9076bd3qcylsutsuucxd6w.png",
+            "url": "/catalog/legkovye/23545r18-98y-xl-potenza-sport-tl-br022492/",
+            "promo": [],
+            "discountStores": [],
+            "fortochkiStores": [
+                {
+                    "STORE_ID": "191",
+                    "PRODUCT_ID": "147005",
+                    "AMOUNT": "8",
+                    "PRODUCT_XML_ID": "BR022492",
+                    "STORE_XML_ID": "FORTOCHKI_43",
+                    "STORE_NAME": "Удалённый склад",
+                    "PRICE": "12098.00",
+                    "PRICE_ID": "96"
+                }
+            ],
+            "commonStores": []
+        }
+    ],
+    "navString": "<!-- pagination -->\n<div class=\"pagination\">\n\t\t\t<span class=\"pagination__arrow pagination__arrow_left\">\n\t\t\t<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" viewBox=\"0 0 10856 7374\">\n\t\t\t<path d=\"M10638 1561l-4346 5232c-1,0 -2,1 -2,1 -62,136 -147,264 -274,364 -431,338 -1060,272 -1407,-149l-4388 -5320c-346,-420 -278,-1034 152,-1372 430,-338 1060,-270 1405,148l3601 4367 3716 -4473c343,-414 967,-479 1392,-147 426,332 493,936 151,1349z\"/>\n\t\t</svg>\n\t\t\t</span>\n\t\n\t\t\t<span class=\"pagination__page pagination__page_active\">1</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"pagination__page\" href=\"/catalog/legkovye/?form_id=catalog_filter_form&filter_mode=params&sort=asc&filter_type=tires&arCatalogFilter_458_1500340406=Y&set_filter=Y&arCatalogFilter_463=668736523&amp;PAGEN_1=2\">2</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"pagination__page\" href=\"/catalog/legkovye/?form_id=catalog_filter_form&filter_mode=params&sort=asc&filter_type=tires&arCatalogFilter_458_1500340406=Y&set_filter=Y&arCatalogFilter_463=668736523&amp;PAGEN_1=3\">3</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"pagination__page\" href=\"/catalog/legkovye/?form_id=catalog_filter_form&filter_mode=params&sort=asc&filter_type=tires&arCatalogFilter_458_1500340406=Y&set_filter=Y&arCatalogFilter_463=668736523&amp;PAGEN_1=4\">4</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"pagination__page\" href=\"/catalog/legkovye/?form_id=catalog_filter_form&filter_mode=params&sort=asc&filter_type=tires&arCatalogFilter_458_1500340406=Y&set_filter=Y&arCatalogFilter_463=668736523&amp;PAGEN_1=5\">5</a>\n\t\t\t\t\t\t\t\t\n\t\t\t<span class=\"pagination__page pagination__page_dots\">...</span>\n\t\n\n\t\t\t<a class=\"pagination__page\" href=\"/catalog/legkovye/?form_id=catalog_filter_form&filter_mode=params&sort=asc&filter_type=tires&arCatalogFilter_458_1500340406=Y&set_filter=Y&arCatalogFilter_463=668736523&amp;PAGEN_1=142\">142</a>\n\t\n\t\t\t<a href=\"/catalog/legkovye/?form_id=catalog_filter_form&filter_mode=params&sort=asc&filter_type=tires&arCatalogFilter_458_1500340406=Y&set_filter=Y&arCatalogFilter_463=668736523&amp;PAGEN_1=2\" class=\"pagination__arrow pagination__arrow_right\">\n\t\t\t<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" viewBox=\"0 0 10856 7374\">\n\t\t\t<path d=\"M10638 1561l-4346 5232c-1,0 -2,1 -2,1 -62,136 -147,264 -274,364 -431,338 -1060,272 -1407,-149l-4388 -5320c-346,-420 -278,-1034 152,-1372 430,-338 1060,-270 1405,148l3601 4367 3716 -4473c343,-414 967,-479 1392,-147 426,332 493,936 151,1349z\"/>\n\t\t</svg>\n\t\t\t</a>\n\t</div>\n<!-- /pagination -->\n",
+    "totalCount": "1696",
+    "pageCount": 142
+}
