@@ -14,11 +14,11 @@ headers = {
 
 # collect all fests URLs
 fests_urls_list = []
-for i in range(0, 192, 24):
-# for i in range(0, 24, 24):
+# for i in range(0, 192, 24):
+for i in range(0, 24, 24):
     url = f"https://www.skiddle.com/festivals/search/?ajaxing=1&sort=0&fest_name=&from_date=24%20Jan%202021&to_date=&where%5B%5D=2&where%5B%5D=3&where%5B%5D=4&where%5B%5D=6&where%5B%5D=7&where%5B%5D=8&where%5B%5D=9&where%5B%5D=10&maxprice=500&o={i}&bannertitle=May"
 
-    req = requests.get(url=url, headers=headers, proxies=proxies)
+    req = requests.get(url=url, headers=headers)
     json_data = json.loads(req.text)
     html_response = json_data["html"]
 
@@ -43,7 +43,7 @@ for url in fests_urls_list:
     print(count)
     print(url)
 
-    req = requests.get(url=url, headers=headers, proxies=proxies)
+    req = requests.get(url=url, headers=headers)
 
     try:
         soup = BeautifulSoup(req.text, "lxml")
@@ -54,7 +54,7 @@ for url in fests_urls_list:
         fest_location_url = "https://www.skiddle.com" + fest_info_block.find("a", class_="tc-white").get("href")
 
         # get contact details and info
-        req = requests.get(url=fest_location_url, headers=headers, proxies=proxies)
+        req = requests.get(url=fest_location_url, headers=headers)
         soup = BeautifulSoup(req.text, "lxml")
 
         contact_details = soup.find("h2", string="Venue contact details and info").find_next()
