@@ -98,7 +98,7 @@ def parse_fest_contact_info(html: str) -> Dict[str, str]:
 
 
 async def get_fest_info(session: aiohttp.ClientSession, url: str) -> Dict[str, Any]:
-    """Return a list of festivals urls from the page with specified url."""
+    """Return festival information from specified url."""
     logging.info('Fetching festival info from %s', url)
     async with session.get(url) as response:
         festival_html = await response.text()
@@ -122,7 +122,7 @@ async def get_fests_info(
     return [task.result() for task in tasks]
 
 
-async def main():
+async def main() -> None:
     async with aiohttp.ClientSession(headers=HEADERS) as session:
         logger.info('Starting fetching urls...')
         fests_urls = await get_fests_urls(session)
