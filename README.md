@@ -30,3 +30,5 @@
     - [Code](https://github.com/pythontoday/scrap_tutorial/tree/master/lesson10)
 12. [Обучение парсингу на Python #12 | Выполняем заказ на фрилансе | Парсинг динамического сайта](https://www.youtube.com/watch?v=-T1_JG_qa-s)
     - [Code](https://github.com/pythontoday/scrap_tutorial/tree/master/lesson11)
+13. [Обучение парсингу на Python #13 | Выполняем заказ на фрилансе | Парсинг динамического сайта | Selenium, Beautifulsoup, Requests, Регулярные выражения, JSON](https://youtu.be/w7YEorllJZI)
+    - [Code](https://github.com/pythontoday/scrap_tutorial/tree/master/lesson12)
