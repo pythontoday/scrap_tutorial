@@ -49,8 +49,8 @@ def get_data(file_path):
     result_data = []
 
     with requests.Session() as session:
-        for url in enumerate(urls_list[:100]):
-            response = session.get(url=url[1], headers=headers)
+        for i, url in enumerate(urls_list[:100]):
+            response = session.get(url=url, headers=headers)
             soup = BeautifulSoup(response.text, 'lxml')
 
             article_title = soup.find('div', class_='post-content').find('h1', class_='title').text.strip()
@@ -60,7 +60,7 @@ def get_data(file_path):
 
             result_data.append(
                 {
-                    'original_url': url[1],
+                    'original_url': url,
                     'article_title': article_title,
                     'article_date': article_date,
                     'article_img': article_img,
@@ -68,7 +68,7 @@ def get_data(file_path):
                 }
             )
             # print(f'{article_title}\n{article_date}\n{article_img}\n{10*"#"}')
-            print(f'Обработал {url[0] + 1}/{urls_count}')
+            print(f'Обработал {i + 1}/{urls_count}')
 
     with open('result.json', 'w') as file:
         json.dump(result_data, file, indent=4, ensure_ascii=False)
